@@ -245,7 +245,7 @@ word-spacing: 5px;
   border-radius: 3px;
   transition: 0.2s;
 }
-.chaircfo button:hover{
+.read-more-button:hover{
   color: #27334f;
   background-color: white;
 }
